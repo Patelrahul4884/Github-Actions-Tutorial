@@ -23,4 +23,4 @@ jobs:
       - uses: actions/checkout@v2
       - name: Check
         run: |
-          echo "Checking after fork"
+          echo "Checking after fork and action enable"
